@@ -1,0 +1,17 @@
+# 데이터 / 무거운 산출물 (push 제외)
+*.csv
+*.npz
+*.pt
+*.pth
+checkpoints/
+logs/
+results_json/
+results_csv/
+confusion_matrices/
+*.png
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
